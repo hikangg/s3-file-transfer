@@ -1,0 +1,6 @@
+{
+  "name": "file-transfer",
+  "devDependencies": {
+    "serverless-python-requirements": "^4.3.0"
+  }
+}
